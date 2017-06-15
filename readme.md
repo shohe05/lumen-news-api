@@ -1,0 +1,2 @@
+# lumen news api
+Lumenのサンプル
